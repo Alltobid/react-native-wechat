@@ -1,4 +1,3 @@
-
 .DS_Store
 node_modules
 /android/build
@@ -6,3 +5,14 @@ node_modules
 
 # ios
 ios/build
+
+# Xcode
+build/
+DerivedData/
+xcuserdata
+xcshareddata
+Pods/
+*.xcuserstate
+*.ipa
+*.dSYM.zip
+*.dSYM
